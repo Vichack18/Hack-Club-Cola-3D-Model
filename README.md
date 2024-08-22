@@ -1,0 +1,1 @@
+Hi! This is a 3D Model Project that I created. I wanted to mix the classic CocaCola bottle format with HackClub, so there it is. I'm sharing with you a .STL file wich I made it in Autodesk Fusion 360, so feel free to use it!
